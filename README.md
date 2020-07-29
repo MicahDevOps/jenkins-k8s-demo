@@ -1,1 +1,2 @@
-# jenkins-k8s-demo
+# jenkins-demo
+some demo project for jenkins
